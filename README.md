@@ -109,9 +109,9 @@ It's not necessary until you host the bot. You can get the String Session after 
 > Currently Running Stable version of Asterix.  
 > [![](https://img.shields.io/badge/Asterix-v0.0.1-color=red)](#)  
 > Is our project under active maintenance?  
-> [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-color=green)](https://github.com/Asterix/Asterix/graphs/commit-activity)   
+> [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-color=green)](https://github.com/Team-Asterix/Asterix/graphs/commit-activity)   
 > Developers aka Contributors for the Project.  
-> [![Contributors](https://img.shields.io/github/contributors/Asterix/Asterix?style=flat-square&color=orange)](https://github.com/Asterix/Asterix/graphs/contributors)
+> [![Contributors](https://img.shields.io/github/contributors/Team-Asterix/Asterix?style=flat-square&color=orange)](https://github.com/Team-Asterix/Asterix/graphs/contributors)
 
 ## Credits
 
