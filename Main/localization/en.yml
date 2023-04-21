@@ -78,7 +78,7 @@ GOOGLE_RESULT: "<b><i><a href='{}'>{}</a>\n\n<a href='{}'>Visually similar image
 GROUP_ONLY: "<code>Are you sure this is a group?</code>"
 HARD_UPDATE_IN_PROGRESS: "<b>Heroku application detected!</b>\n<i>Updating your userbot. Please wait!</i>"
 ILLEGAL_TRANSFER: "<i>Why would someone transfer channels own content to same channel?</i>"
-INLINE_DISABLED: "<code>The inline mode is currently disabled.. Please wait while Altruix enables it for you.</code>"
+INLINE_DISABLED: "<code>The inline mode is currently disabled.. Please wait while Asterix enables it for you.</code>"
 INLINE_NOT_ALLOWED: "Inline is currently disabled in this chat"
 INPUT_REQUIRED: "<code>This command requires a proper input!</code>"
 INSTALLED_PACKAGE: "<b>Successfully Installed the package :</b> <code>{}</code> <i>by</i> {} <i>of version</i> <code>v{}</code>"
